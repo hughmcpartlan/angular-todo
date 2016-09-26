@@ -1,0 +1,19 @@
+{
+  "name": "hugh",
+  "version": "1.0.0",
+  "description": "hugh",
+  "main": "hugh",
+  "scripts": {
+    "test": "hugh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughmcpartlan/angular-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughmcpartlan/angular-todo/issues"
+  },
+  "homepage": "https://github.com/hughmcpartlan/angular-todo#readme"
+}
